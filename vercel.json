@@ -1,0 +1,7 @@
+{
+  "framework": "vite",
+  "rewrites": [
+    { "source": "/ontology-studio", "destination": "/ontology-studio/index.html" },
+    { "source": "/organization-onboarding", "destination": "/organization-onboarding/index.html" }
+  ]
+}
